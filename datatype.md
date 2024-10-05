@@ -15,3 +15,5 @@
 - Funtions, modules, classes
 
 - Advance: Decorators, Generators, Iterators, MetaProgramming
+
+- float( decimal values)
