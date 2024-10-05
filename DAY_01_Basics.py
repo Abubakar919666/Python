@@ -7,5 +7,6 @@ chai("lemon tea")
 chai_one = "lemon tea"
 chai_two = "ginger tea"
 chai_three = "masala chai"
-#
-# Input 
+
+# Input in python
+input("this is your name ")
