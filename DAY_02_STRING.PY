@@ -33,3 +33,15 @@ elif (light == "green"):
     print("go")
 else:
     print("then wait")
+
+
+a = input("inter your first number")
+b = input("inter your second number")
+c = input("inter your third number")
+
+if (a > b and a > c ):
+    print("your a number is greater")
+elif(b > c):
+    print("your b number is greater")
+else:
+    print("your c number is greater")
