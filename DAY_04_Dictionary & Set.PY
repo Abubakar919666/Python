@@ -24,6 +24,5 @@ nested_dic = {
 
 print(nested_dic)
 
-# Method in dictionaries    
-
+# Method in dictionaries
 # value methos 
