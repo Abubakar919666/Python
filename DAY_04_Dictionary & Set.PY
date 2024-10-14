@@ -26,4 +26,11 @@ print(nested_dic)
 
 # Method in dictionaries
 
-# value methos 
+# value() method 
+# items() method 
+# get()  method 
+# update() method
+
+# SETS IN PYTHON 
+
+
