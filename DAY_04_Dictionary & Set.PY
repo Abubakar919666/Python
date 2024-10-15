@@ -32,5 +32,7 @@ print(nested_dic)
 # update() method
 
 # SETS IN PYTHON 
-
+collection = {1, 4, 6, 8, 9, 10}
+print(collection)
+print(type(collection))
 
