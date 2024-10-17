@@ -35,3 +35,5 @@ print(nested_dic)
 collection = {1, 4, 6, 8, 9, 10}
 print(collection)
 print(type(collection))
+
+collection
