@@ -1,5 +1,5 @@
-count = 1
-while count<= 5:
-    print("hello")
-    print("please inter my name")
-    
+n = int(input("please enter a number:"))
+i = 1
+while i<= 10:
+    print(n*i)
+    i +=1

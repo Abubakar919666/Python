@@ -35,5 +35,32 @@ print(nested_dic)
 collection = {1, 4, 6, 8, 9, 10}
 print(collection)
 print(type(collection))
+# set doblicate value ignore
+# set are mutable but the element are immutable
 
-collection()
+
+# Methods in sets
+
+# Add method 
+collection = set()
+collection.add(1)
+collection.add(2)
+collection.add(2)
+print(collection)
+
+
+#remove method 
+collection.remove(1)
+print(collection)
+
+#pop method 
+collection = {3, 4, 6 }
+print(collection.pop())
+
+#Union method 
+set1 = {2, 3, 5, 6, 7, 8}
+set2 = {9, 10, 5, 6, 1, 8}
+print(set1.union(set2))
+
+#intersection method 
+print(set1.intersection(set2))
