@@ -1,1 +1,1 @@
-print(some sorted)
+print(sorted)
