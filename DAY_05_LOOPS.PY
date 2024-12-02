@@ -14,6 +14,8 @@ while i<= 5:
     i += 1
 
 i = 1
-for i<=10:
-print(n*i)
-i +=1
+# for i <=10:
+# print(n*i)
+# i +=1
+
+
